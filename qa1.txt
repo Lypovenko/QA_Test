@@ -1,4 +1,6 @@
 1. Kyiv
 2. Kharkiv
+3. Sumy
+4. Ternopil
 
 3. Lviv
