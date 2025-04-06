@@ -2,5 +2,6 @@
 2. Kharkiv
 3. Sumy
 4. Ternopil
-
-3. Lviv
+5. Vinnytsia
+6. Lviv
+7. Mykolaiv
