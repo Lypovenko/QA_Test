@@ -5,3 +5,5 @@
 5. Vinnytsia
 6. Lviv
 7. Mykolaiv
+8. Kherson
+9. Odesa
